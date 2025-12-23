@@ -107,7 +107,7 @@ export default function RomanticXmasPage() {
             <Sparkles className="text-yellow-300 w-8 h-8" style={{ animation: 'float 3s ease-in-out infinite 0.5s' }} />
           </div>
           <h2 className="text-3xl md:text-4xl text-red-200 font-semibold mb-2">
-            Thais ❤️
+             ❤️
           </h2>
           <p className="text-xl text-white/90 italic">
             Meu amor, meu presente mais especial
