@@ -6,20 +6,18 @@ export default function RomanticXmasPage() {
 
   const startDate = new Date('2025-03-30T00:00:00');
 
-  // COLE AQUI OS LINKS DAS SUAS FOTOS
-  // Substitua estas URLs pelas suas fotos em base64 ou URLs diretas
+  // As fotos estão na pasta public/fotos/
+  // Basta colocar as fotos lá e ajustar os nomes abaixo
   const images = [
-    'https://photos.app.goo.gl/55dWLrhtohAZQbPH7',
-    'https://via.placeholder.com/400x300/4ecdc4/ffffff?text=Foto+2',
-    'https://via.placeholder.com/400x300/45b7d1/ffffff?text=Foto+3',
-    'https://via.placeholder.com/400x300/f7b731/ffffff?text=Foto+4',
-    'https://via.placeholder.com/400x300/5f27cd/ffffff?text=Foto+5',
-    'https://via.placeholder.com/400x300/00d2d3/ffffff?text=Foto+6',
+    '/fotos/foto1.jpg',
+    '/fotos/foto2.jpg',
+    '/fotos/foto3.jpg',
+    '/fotos/foto4.jpg',
+    '/fotos/foto5.jpg',
   ];
 
   // Legendas para cada foto (opcional)
   const captions = [
-    'Nosso primeiro encontro 💕',
     'Momento especial',
     'Juntos para sempre',
     'Te amo!',
@@ -193,7 +191,7 @@ export default function RomanticXmasPage() {
         {/* Footer */}
         <div className="text-center mt-8 text-white/70">
           <p className="text-sm">Feito com muito amor ❤️</p>
-          <p className="text-xs mt-2">Por Luiz Felipe Lopes</p>
+          <p className="text-xs mt-2">Natal 2024</p>
         </div>
       </div>
     </div>
