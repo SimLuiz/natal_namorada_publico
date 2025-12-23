@@ -121,7 +121,6 @@ export default function RomanticXmasPage() {
             <h3 className="text-2xl md:text-3xl font-bold text-white mb-2">
               Tempo desde a primeira mensagem
             </h3>
-            <p className="text-white/80">Desde 30 de março de 2025</p>
           </div>
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
