@@ -12,9 +12,9 @@ export default function RomanticXmasPage() {
     '/fotos/foto1.jpg',
     '/fotos/foto2.jpg',
     '/fotos/foto3.jpg',
+    '/fotos/foto6.png',
     '/fotos/foto4.jpg',
     '/fotos/foto5.jpg',
-    '/fotos/foto6.png',
   ];
 
   // Legendas para cada foto (opcional)
@@ -22,9 +22,9 @@ export default function RomanticXmasPage() {
     'Momento especial',
     'Juntos para sempre',
     'Te amo!',
+    'Minha Mulher Maravilha',
     'Meu amor',
     'Felizes juntos',
-    'Minha Mulher Maravilha',
   ];
 
   useEffect(() => {
