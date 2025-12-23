@@ -104,7 +104,7 @@ export default function App() {
           <div className="text-center mb-6">
             <Heart className="w-12 h-12 mx-auto text-red-400 mb-3" style={{ animation: 'heartbeat 1.5s ease-in-out infinite' }} />
             <h3 className="text-2xl md:text-3xl font-bold text-white mb-2">
-              Nosso Tempo Juntos
+              Tempo desde nossa primeira mensagem
             </h3>
             <p className="text-white/80">Desde 30 de março de 2025</p>
           </div>
