@@ -119,7 +119,7 @@ export default function RomanticXmasPage() {
           <div className="text-center mb-6">
             <Heart className="w-12 h-12 mx-auto text-red-400 mb-3" style={{ animation: 'heartbeat 1.5s ease-in-out infinite' }} />
             <h3 className="text-2xl md:text-3xl font-bold text-white mb-2">
-              Nosso Tempo Juntos
+              Tempo desde a primeira mensagem
             </h3>
             <p className="text-white/80">Desde 30 de março de 2025</p>
           </div>
@@ -193,7 +193,7 @@ export default function RomanticXmasPage() {
         {/* Footer */}
         <div className="text-center mt-8 text-white/70">
           <p className="text-sm">Feito com muito amor ❤️</p>
-          <p className="text-xs mt-2">Natal 2024</p>
+          <p className="text-xs mt-2">Por Luiz Felipe Lopes</p>
         </div>
       </div>
     </div>
