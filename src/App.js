@@ -196,7 +196,7 @@ export default function App() {
 
         {/* Footer */}
         <div className="text-center mt-8 text-white/70">
-          <p className="text-sm">Feito com muito amor ❤️</p>
+          <p className="text-sm">Feito com muito amor por Luiz Felipe Lopes ❤️</p>
         </div>
       </div>
     </div>
