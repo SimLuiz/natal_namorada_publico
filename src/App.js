@@ -9,7 +9,7 @@ export default function RomanticXmasPage() {
   // COLE AQUI OS LINKS DAS SUAS FOTOS
   // Substitua estas URLs pelas suas fotos em base64 ou URLs diretas
   const images = [
-    'https://via.placeholder.com/400x300/ff6b6b/ffffff?text=Foto+1',
+    'https://photos.app.goo.gl/55dWLrhtohAZQbPH7',
     'https://via.placeholder.com/400x300/4ecdc4/ffffff?text=Foto+2',
     'https://via.placeholder.com/400x300/45b7d1/ffffff?text=Foto+3',
     'https://via.placeholder.com/400x300/f7b731/ffffff?text=Foto+4',
@@ -193,7 +193,7 @@ export default function RomanticXmasPage() {
         {/* Footer */}
         <div className="text-center mt-8 text-white/70">
           <p className="text-sm">Feito com muito amor ❤️</p>
-          <p className="text-xs mt-2">Natal 2024</p>
+          <p className="text-xs mt-2">Por Luiz Felipe Lopes</p>
         </div>
       </div>
     </div>
